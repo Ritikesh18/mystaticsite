@@ -1,0 +1,2 @@
+# mystaticsite
+contact site
